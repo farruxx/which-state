@@ -2,6 +2,8 @@
 
 Get US state name by coordinates
 
+Forked from [which-country](https://github.com/vkurchatkin/which-country)
+
 Powered by [rbush](https://github.com/mourner/rbush) and modified
 [Natural Earth 50m countries dataset](http://www.naturalearthdata.com/downloads/50m-cultural-vectors/50m-admin-0-countries-2/).
 
